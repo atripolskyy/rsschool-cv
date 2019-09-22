@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>HTML, CSS & Git Basics</title>
+  <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+  <main>
+    <section class="section-contacts">
+      <div>
+        <figure>
+          <img src="./assets/image.jpg" alt="My photo">
+        </figure>
+      </div>
+      <div>
+        <h1>Oleksii Trypolskyi</h1>
+        <h3>Contact Info</h3>
+        <ul>
+          <li>Social links: <a href="https://www.linkedin.com/in/oleksii-trypolskyi/" target="_blank">LinkedIn</a></li>
+          <li>Email: <a href="mailto:atripolskyy@gmail.com">atripolskyy@gmail.com</a></li>
+        </ul>
+      </div>
+    </section>
+    <section>
+      <h3>Summary</h3>
+      <p>I practice and continue to learn Front-end.
+          Created sites from scratch and on CMS: Wordpress, OpenCart, ModX, Joomla. 
+          Have experiense with PHP, Yii. I am now learning React and JavaScript. 
+          Developed a simple android application using React Native 
+          (the app received geo-data at a point on the map and displayed the temperature for 7 days).</p>
+    </section>
+    <section>
+      <h3>Skills</h3>
+      <ul>
+        <li>Knowledge of JavaScript, jQuery;</li>
+        <li>Knowledge of HTML, Javascript document DOM model and events;</li>
+        <li>Knowledge of BEM methodology;</li>
+        <li>Knowledge of semantic HTML5 and CSS3 (fixed width, adaptive and responsive layout, Pixel Perfect markup);</li>
+        <li>Experience with Twitter Bootstrap;</li>
+        <li>Experience with CSS-preprocessors: SaSS, Stylus;</li>
+        <li>Some experience with React and React Native;</li>
+        <li>Photoshop, Figma, Zeplin experience;</li>
+        <li>Experience with task runner Gulp;</li>
+        <li>Experience with Google Maps API, MapBox;</li>
+        <li>GIT experience;</li>
+        <li>Experience with WordPress(theme development experience), ModX, OpenCart, Joomla.</li>
+        <li>Knowledge of OOP and MVC;</li>
+        <li>Base knowledge of PHP, MySQL;</li>
+        <li>Experience with Yii PHP Framework;</li>
+        <li>Base knowledge of SEO;</li>
+        <li>Skills to quickly search for information in the internet («googling»);</li>
+      </ul>
+    </section>
+    <section>
+      <h3>Code examples</h3>
+        <pre>
+function delTask() {
+  const taskId = +this.parentNode.id;
+
+  tasks.forEach((task, i) => {
+    if (task.id === taskId) {
+      tasks.splice(i, 1);
+    }
+  });
+
+  if (tasks.length === 0) {
+    const p = document.createElement('p');
+          p.innerText = 'TODO is empty';
+          rootNode.appendChild(p);
+  }
+
+  localStorage.setItem('tasks', JSON.stringify(tasks));
+  this.parentNode.remove();
+}
+        </pre>
+    </section>
+    <section>
+      <h3>Experience</h3>
+      <p>Worked at some IT companies as a web developer. Also for some time i worked as 
+        a freelancer. Some of my projects:</p>
+      <ul>
+        <li><a href="http://ncd.com.ua/">http://ncd.com.ua/</a></li>
+        <li><a href="http://artezia.com.ua">http://artezia.com.ua</a></li>
+        <li><a href="http://valtar.com.ua">http://valtar.com.ua</a></li>
+        <li><a href="http://streetlight.com.ua">http://streetlight.com.ua</a></li>
+      </ul>
+    </section>
+    <section>
+      <h3>Education</h3>
+      <p>I finished the study in Kyiv Polytechnical Institute. 
+        I also completed courses like JavaScript Advanced and Front-end for Beginners. 
+        I attended some Front-end development seminars. I have also completed several 
+        online courses on Html, CSS and JavaScript.
+        </p>
+    </section>
+    <section>
+      <h3>Knowledge of English</h3>
+      <p>I have been learning English since the beginning of school. but it was not enough to 
+          speak English fluently. Today I go to English courses.</p>
+    </section>
+  </main>
+</body>
+</html>
