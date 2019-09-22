@@ -1,1 +1,1 @@
-Link to CV created with Markdown syntax: [https://atripolskyy.github.io/rsschool-cv/cv]https://atripolskyy.github.io/rsschool-cv/cv
+Link to CV created with Markdown syntax: https://atripolskyy.github.io/rsschool-cv/cv
