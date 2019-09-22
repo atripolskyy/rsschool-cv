@@ -1,9 +1,11 @@
-### Oleksii Trypolskyi
+## Oleksii Trypolskyi
 
-Contact Info:
+#### Contact Info
 
 * Social links: [LinkedIn](https://www.linkedin.com/in/oleksii-trypolskyi/)
-* Email: atripolskyy@gmail.com 
+* Email: atripolskyy@gmail.com
+
+#### Summary
 
 I practice and continue to learn Front-end.
 Created sites from scratch and on CMS: Wordpress, OpenCart, ModX, Joomla. 
