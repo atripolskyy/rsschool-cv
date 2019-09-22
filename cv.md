@@ -1,11 +1,11 @@
-## Oleksii Trypolskyi
+# Oleksii Trypolskyi
 
-#### Contact Info
+### Contact Info
 
 * Social links: [LinkedIn](https://www.linkedin.com/in/oleksii-trypolskyi/)
 * Email: atripolskyy@gmail.com
 
-#### Summary
+### Summary
 
 I practice and continue to learn Front-end.
 Created sites from scratch and on CMS: Wordpress, OpenCart, ModX, Joomla. 
@@ -13,7 +13,7 @@ Have experiense with PHP, Yii. I am now learning React and JavaScript.
 Developed a simple android application using React Native 
 (the app received geo-data at a point on the map and displayed the temperature for 7 days).
 
-#### Skills
+### Skills
 
 * Knowledge of JavaScript, jQuery;
 * Knowledge of HTML, Javascript document DOM model and events;
@@ -33,7 +33,7 @@ Developed a simple android application using React Native
 * Base knowledge of SEO;
 * Skills to quickly search for information in the internet («googling»);
 
-#### Code examples
+### Code examples
 
 ```javascript
 function delTask() {
@@ -56,7 +56,7 @@ function delTask() {
 }
 ```
 
-#### Experience
+### Experience
 
 Worked at some IT companies as a web developer. Also for some time i worked as a freelancer. Some of my projects:
 * [http://ncd.com.ua/](http://ncd.com.ua/)
@@ -64,11 +64,11 @@ Worked at some IT companies as a web developer. Also for some time i worked as a
 * [http://valtar.com.ua](http://valtar.com.ua)
 * [http://streetlight.com.ua](http://streetlight.com.ua)
 
-#### Education
+### Education
 
 I finished the study in Kyiv Polytechnical Institute. I also completed courses like JavaScript Advanced and Front-end for Beginners. I attended some Front-end development seminars. I have also completed several online courses on Html, CSS and JavaScript.
 
-#### Knowledge of English
+### Knowledge of English
 
 I have been learning English since the beginning of school. but it was not enough to 
 speak English fluently. Today I go to English courses.
